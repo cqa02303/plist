@@ -1,0 +1,55 @@
+CFBundleDisplayName = "プロセス";
+
+"aboutlabel" = "プロセスについて";
+
+"prev" = "前";
+"next" = "次";
+
+"rtag0" = "システム情報";
+"rtag1" = "稼働プロセス一覧";
+"procscell" = "プロセス数";
+
+"systitle" = "システム情報";
+"systag0" = "マシン(machine)";
+"systag1" = "モデル(model)";
+"systag2" = "CPUの数";
+"systag3" = "物理メモリ";
+"systag4" = "ユーザメモリ";
+"systag5" = "ページサイズ";
+"systag6" = "浮動小数点演算機";
+"systag7" = "カーネルリリース情報";
+"systag8" = "カーネルタイプ";
+"systag9" = "カーネルバージョン";
+"systag10" = "ベクトル演算機";
+"systag11" = "CPU稼働周波数";
+"systag12" = "キャッシュ帯域幅";
+"systag13" = "L1命令キャッシュサイズ";
+"systag14" = "L1データキャッシュサイズ";
+"systag15" = "L2キャッシュサイズ";
+"systag16" = "L3キャッシュサイズ";
+"systag17" = "システムバスクロック";
+"systag18" = "TBバスクロック";
+"systag19" = "メモリサイズ";
+"systag20" = "デバイス名";
+"systag21" = "デバイス識別子";
+"systag22" = "デバイス名（和名）";
+"systag23" = "モデル";
+"systag24" = "OS名称";
+"systag25" = "OSバージョン";
+
+"pritag0" = "ロードアベレージ";
+
+"sysnonfp" = "無し";
+"sysfp" = "有り";
+
+"prctag0" = "プロセス名";
+"prctag1" = "実行状態";
+"prctag2" = "起動時刻";
+"prctag3" = "プロセスID";
+"prctag4" = "利用者ID";
+
+"SIDL" = "アイドル状態(IDLE)";
+"SRUN" = "実行中(RUN)";
+"SSLEEP" = "休止(SLEEP)";
+"SSTOP" = "停止(STOP)";
+"SZOMB" = "ゾンビ(ZOMBI)";
